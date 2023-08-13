@@ -1,0 +1,76 @@
+.search-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 400px;
+    .css-2b097c-container{
+        width: 100%;
+        font-size: 13px;
+        &::before{
+            left: 11px;
+            position: absolute;
+            top: 10px;
+            z-index: 10;
+            font-size: 20px;
+        }
+        
+        &:focus{
+            border: none;
+            height: 40px;
+            border: none;
+            background: #f7d800;
+        }
+        
+        .css-yk16xz-control{
+            border-radius: 30px;
+            &:focus-visible{
+                
+            }
+            .css-b8ldur-Input{
+                padding: 0;
+            }
+        }
+        .css-4ljt47-MenuList{
+            max-height: 200px;
+        }
+        .css-g1d714-ValueContainer{
+                border: none;
+                height: 40px;
+                border: none;
+                background: #f7d800;
+                padding-left:40px ;
+                border-radius: 30px;
+        }
+        .css-1pahdxg-control{
+            border-radius: 30px;
+                &:focus-visible{
+                    border: none !important;
+                    height: 40px;
+                    border-radius: 30px;
+                    border: none;
+                    background: #f7d800 !important;
+                }
+            }
+               
+
+        .css-1hb7zxy-IndicatorsContainer{
+                display: none !important;
+
+                &:focus-visible{
+                    display: none;
+                }
+            }
+
+        
+        
+    }
+}
+  
+  
+  
+  
+  
+  
+  
+  

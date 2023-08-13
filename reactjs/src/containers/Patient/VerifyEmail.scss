@@ -1,0 +1,19 @@
+.verify-email-container{
+    display: flex;
+    justify-content: center;
+    margin-top: calc(100vh - 70vh);
+
+    .info-booking-v{
+        font-size: 20px;
+        font-weight: 600;
+        text-transform: uppercase;
+        color: rgb(0, 175, 26);
+    }
+
+    .info-booking-x{
+        font-size: 20px;
+        font-weight: 600;
+        text-transform: uppercase;
+        color: red;
+    }
+}

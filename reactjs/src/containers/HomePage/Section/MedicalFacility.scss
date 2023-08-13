@@ -1,0 +1,11 @@
+.img-customize{
+    &:hover{
+        color: #11bcde;
+    }
+    .clinic-name{
+        padding-top: 5px;
+        margin: 0 5px;
+        max-width: 100%;
+        text-align: center;
+    }
+}

@@ -36,3 +36,4 @@ module.exports = (sequelize, DataTypes) => {
   });
   return Doctor_Infor;
 };
+/**Tao bang doctor_info */

@@ -60,3 +60,4 @@ module.exports = {
     await queryInterface.dropTable('Users');
   }
 };
+/**Phan tao migration */

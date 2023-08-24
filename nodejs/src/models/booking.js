@@ -28,3 +28,4 @@ module.exports = (sequelize, DataTypes) => {
   });
   return Booking;
 };
+/**Tao bang booking */

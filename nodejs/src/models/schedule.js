@@ -29,3 +29,4 @@ module.exports = (sequelize, DataTypes) => {
   });
   return Schedule;
 };
+/**Tao bang schedule */

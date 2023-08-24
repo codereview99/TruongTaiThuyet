@@ -23,3 +23,4 @@ module.exports = (sequelize, DataTypes) => {
   });
   return Doctor_Clinic_Specialty;
 };
+/**Tao bang trung gian doctor_clinic_specialty */

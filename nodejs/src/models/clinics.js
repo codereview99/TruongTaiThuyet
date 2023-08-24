@@ -25,3 +25,4 @@ module.exports = (sequelize, DataTypes) => {
   });
   return Clinics;
 };
+/**Tao bang clinics */
